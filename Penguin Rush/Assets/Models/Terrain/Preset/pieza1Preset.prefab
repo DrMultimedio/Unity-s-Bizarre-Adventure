@@ -22,9 +22,10 @@ GameObject:
   - component: {fileID: 33167666946841626}
   - component: {fileID: 23628537880843400}
   - component: {fileID: 95324244482380066}
+  - component: {fileID: 114757282333033136}
   - component: {fileID: 65035253773439004}
   m_Layer: 0
-  m_Name: pieza1 (2)
+  m_Name: pieza1Preset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -113,3 +114,16 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114757282333033136
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643596467707740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89d6cddb776021a43867b39d2d917e95, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileHeight: 0
+  tileWidth: 4

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Penguin Rush.Plugins", "Penguin Rush.Plugins.csproj", "{34729922-7D92-7868-7951-954FD8AB0C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Penguin Rush", "Penguin Rush.csproj", "{0EE004BF-751F-2166-31A9-F00D0ED2228F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Penguin Rush.Editor.Plugins", "Penguin Rush.Editor.Plugins.csproj", "{B0FB45BB-D988-8DAA-3E39-77131024BD14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34729922-7D92-7868-7951-954FD8AB0C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34729922-7D92-7868-7951-954FD8AB0C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34729922-7D92-7868-7951-954FD8AB0C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34729922-7D92-7868-7951-954FD8AB0C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE004BF-751F-2166-31A9-F00D0ED2228F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE004BF-751F-2166-31A9-F00D0ED2228F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE004BF-751F-2166-31A9-F00D0ED2228F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE004BF-751F-2166-31A9-F00D0ED2228F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0FB45BB-D988-8DAA-3E39-77131024BD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0FB45BB-D988-8DAA-3E39-77131024BD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0FB45BB-D988-8DAA-3E39-77131024BD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0FB45BB-D988-8DAA-3E39-77131024BD14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
