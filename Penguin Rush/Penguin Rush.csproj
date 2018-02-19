@@ -288,9 +288,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Camera.cs" />
+    <Compile Include="Assets\Scripts\CameraScript.cs" />
     <Compile Include="Assets\Scripts\PenguinRuning.cs" />
-    <Compile Include="Assets\Scripts\PinguControl.cs" />
     <Compile Include="Assets\Scripts\TileData.cs" />
     <Compile Include="Assets\Scripts\TileManager.cs" />
   </ItemGroup>

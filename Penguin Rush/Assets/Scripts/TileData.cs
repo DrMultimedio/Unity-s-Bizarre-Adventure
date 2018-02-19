@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class TileData : MonoBehaviour {
-    public int tileHeight;
-    public int tileWidth;
+    public float tileHeight;
+    public float tileWidth;
 
     // Use this for initialization
     void Start () {
@@ -15,11 +15,11 @@ public class TileData : MonoBehaviour {
 	void Update () {
 		
 	}
-    public int GetTileHeight ()
+    public float GetTileHeight ()
     {
         return tileHeight;
     }
-    public int GetTileWidth()
+    public float GetTileWidth()
     {
         return tileWidth;
     }
